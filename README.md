@@ -2,7 +2,7 @@
 
 # About me
 
-I'm Peter, a self-taught web developer from Hungary who is paving his way into the web development industry. Committed to the idea of life-long learning with a passion for JavaScript, React, and all things web.
+Hi I'm Peter, a self-taught web developer from Hungary who is paving his way into the web development industry. Committed to the idea of life-long learning with a passion for JavaScript, React, and all things web.
 
 # Tech stack
 let skills = {<br/>
