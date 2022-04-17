@@ -12,12 +12,12 @@ let skills = {<br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![icons8-node-js-16](https://user-images.githubusercontent.com/96494176/163712912-37eb2c15-70a8-4831-be6c-1702e15a754e.png) : Node.js, <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![icons8-mongodb-a-cross-platform-document-oriented-database-program-16](https://user-images.githubusercontent.com/96494176/163712946-8ae63836-cebd-4284-a480-6184e1ea8b02.png) : MongoDB, <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![icons8-html-5-16](https://user-images.githubusercontent.com/96494176/163712977-49cfed33-caed-4c15-94f2-924a0242c9b4.png) : HTML5, <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![icons8-css3-16](https://user-images.githubusercontent.com/96494176/163713100-71bb2a7c-8c64-4072-8341-6c96524a6bb5.png) : CSS<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![icons8-css3-16](https://user-images.githubusercontent.com/96494176/163713100-71bb2a7c-8c64-4072-8341-6c96524a6bb5.png) : CSS, <br/>
 };
 
 const currentlyLearning = async (![icons8-typescript-16](https://user-images.githubusercontent.com/96494176/163713152-12134bd4-2c52-47e9-a6b1-293288fad5ac.png)) => {<br/> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;await TypeScript(![icons8-typescript-16](https://user-images.githubusercontent.com/96494176/163713152-12134bd4-2c52-47e9-a6b1-293288fad5ac.png)); <br/>
-}
+};
 
 
 # Portfolio site
