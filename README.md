@@ -4,7 +4,7 @@
 
 I'm Peter, a self-taught web developer from Hungary who is paving his way into the web development industry. Committed to the idea of life-long learning with a passion for JavaScript, React, and all things web.
 
-# Main skills
+# Tech stack
 let skills = {<br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![icons8-react-16](https://user-images.githubusercontent.com/96494176/163712353-8f99bea7-d857-4e65-862b-dd129f89e9a5.png) : React, <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![icons8-javascript-16](https://user-images.githubusercontent.com/96494176/163712419-6e1dd335-9e33-4fc3-97b8-40967c56721d.png) : JavaScript, <br/>
@@ -15,10 +15,11 @@ let skills = {<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![icons8-css3-16](https://user-images.githubusercontent.com/96494176/163713100-71bb2a7c-8c64-4072-8341-6c96524a6bb5.png) : CSS, <br/>
 };
 
-const currentlyLearning = async (![icons8-typescript-16](https://user-images.githubusercontent.com/96494176/163713152-12134bd4-2c52-47e9-a6b1-293288fad5ac.png)) => {<br/> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;await TypeScript(![icons8-typescript-16](https://user-images.githubusercontent.com/96494176/163713152-12134bd4-2c52-47e9-a6b1-293288fad5ac.png)); <br/>
-};
 
+(async function <b>currentlyLearning</b>(){<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; const TypeScript = await learnSkill(![icons8-typescript-16](https://user-images.githubusercontent.com/96494176/163713152-12134bd4-2c52-47e9-a6b1-293288fad5ac.png));<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; skills[![icons8-typescript-16](https://user-images.githubusercontent.com/96494176/163713152-12134bd4-2c52-47e9-a6b1-293288fad5ac.png)] = <b>TypeScript</b>;<br/>
+})();
 
 # Portfolio site
 👀 <a href="https://paether.dev">paether.dev</a>
