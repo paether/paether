@@ -8,6 +8,9 @@ Hi I'm Peter, a self-taught web developer from Hungary who is paving his way int
 let skills = {<br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![icons8-react-16](https://user-images.githubusercontent.com/96494176/163712353-8f99bea7-d857-4e65-862b-dd129f89e9a5.png) : React, <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![icons8-javascript-16](https://user-images.githubusercontent.com/96494176/163712419-6e1dd335-9e33-4fc3-97b8-40967c56721d.png) : JavaScript, <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![icons8-typescript-16](https://user-images.githubusercontent.com/96494176/163713152-12134bd4-2c52-47e9-a6b1-293288fad5ac.png) : TypeScript, <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![jest](https://user-images.githubusercontent.com/96494176/170247560-0be1cfb6-c07c-4971-b0fd-a1533946d6bf.png) : Jest, <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![rtl](https://user-images.githubusercontent.com/96494176/170247907-24528ea3-79b6-48e2-b8e7-394c7023e14d.png) : React Testing Library, <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![expressjs-icon (1)](https://user-images.githubusercontent.com/96494176/163712813-b3a82516-fa69-4b17-87b9-6a71bef29f01.png) : Express, <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![icons8-node-js-16](https://user-images.githubusercontent.com/96494176/163712912-37eb2c15-70a8-4831-be6c-1702e15a754e.png) : Node.js, <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![icons8-mongodb-a-cross-platform-document-oriented-database-program-16](https://user-images.githubusercontent.com/96494176/163712946-8ae63836-cebd-4284-a480-6184e1ea8b02.png) : MongoDB, <br/>
@@ -16,10 +19,13 @@ let skills = {<br/>
 };
 
 
+
+
 (async function <b>currentlyLearning</b>(){<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; const TypeScript = await learnSkill(![icons8-typescript-16](https://user-images.githubusercontent.com/96494176/163713152-12134bd4-2c52-47e9-a6b1-293288fad5ac.png));<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; skills[![icons8-typescript-16](https://user-images.githubusercontent.com/96494176/163713152-12134bd4-2c52-47e9-a6b1-293288fad5ac.png)] = <b>TypeScript</b>;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; const redux = await learnSkill(![icons8-redux-16](https://user-images.githubusercontent.com/96494176/170248884-28a47711-4a0d-48de-8d10-f7c74565138d.png));<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; skills[![icons8-redux-16](https://user-images.githubusercontent.com/96494176/170248884-28a47711-4a0d-48de-8d10-f7c74565138d.png)] = <b>redux</b>;<br/>
 })();
+
 
 # Portfolio site
 👀 <a href="https://paether.dev">paether.dev</a>
