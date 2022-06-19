@@ -19,15 +19,6 @@ let skills = {<br/>
 };
 
 
-
-
-
-(async function <b>currentlyLearning</b>(){<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; const redux = await learnSkill(![icons8-redux-16](https://user-images.githubusercontent.com/96494176/170248884-28a47711-4a0d-48de-8d10-f7c74565138d.png));<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; skills[![icons8-redux-16](https://user-images.githubusercontent.com/96494176/170248884-28a47711-4a0d-48de-8d10-f7c74565138d.png)] = <b>redux</b>;<br/>
-})();
-
-
 # Portfolio site
 👀 <a href="https://paether.dev">paether.dev</a>
 
